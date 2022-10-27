@@ -1,0 +1,2 @@
+# RhapsodiePi
+ Another RaspberryPi clone
