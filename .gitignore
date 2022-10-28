@@ -1,2 +1,10 @@
+# KiCad temporary files
+*-bak
+*-backups
+*-cache*
+*-bak*
+_autosave*
+\#auto_saved_files\#
 
+# All other zip files
 *.zip
