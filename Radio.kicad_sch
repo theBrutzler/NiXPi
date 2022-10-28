@@ -1250,7 +1250,7 @@
     (uuid 178e0e86-e9f3-4370-b1cf-c8c9024ba34d)
     (property "Reference" "U4" (id 0) (at 149.86 78.74 0))
     (property "Value" "X1000" (id 1) (at 149.86 81.28 0))
-    (property "Footprint" "" (id 2) (at 153.67 95.25 0)
+    (property "Footprint" "TheBrutzlers_Lib:BGA256C80P16X16_1300X1300X130N" (id 2) (at 153.67 95.25 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "" (id 3) (at 153.67 100.33 0)
