@@ -523,6 +523,12 @@
     (path "/07a44a13-eafc-46bd-8242-ee73171e46e1/24d7ffe1-1083-4541-a113-cdf1d69a1b27"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/07a44a13-eafc-46bd-8242-ee73171e46e1/38091b81-955e-4a5d-be74-b5824164279c"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/07a44a13-eafc-46bd-8242-ee73171e46e1/421cffe4-797f-4c08-9643-ee0e2ed5e059"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/dbdd6d6b-abba-4d19-b15d-093c29a8365e/731bc4bb-306c-46ae-89f0-595e2887f0d9"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -1252,6 +1258,9 @@
     (path "/07a44a13-eafc-46bd-8242-ee73171e46e1/7c84c33b-c226-4963-ab1b-55c011d817d9"
       (reference "R?") (unit 1) (value "1K2") (footprint "")
     )
+    (path "/07a44a13-eafc-46bd-8242-ee73171e46e1/e4664927-a961-481f-bd64-9356555eeb44"
+      (reference "R?") (unit 1) (value "240R") (footprint "")
+    )
     (path "/07a44a13-eafc-46bd-8242-ee73171e46e1/e51ba197-82ae-4a03-bde3-9b835b8452aa"
       (reference "R?") (unit 1) (value "1K2") (footprint "")
     )
@@ -1313,6 +1322,9 @@
       (reference "U?") (unit 1) (value "IMX6UL") (footprint "TheBrutzlers_Lib:IMX6UL_BGA289")
     )
     (path "/07a44a13-eafc-46bd-8242-ee73171e46e1/afb5ae72-2bce-4fc3-826f-d9f67a22d97a"
+      (reference "U?") (unit 1) (value "MT41K256M16TW") (footprint "Package_BGA:BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm")
+    )
+    (path "/07a44a13-eafc-46bd-8242-ee73171e46e1/dd0c7d84-601b-4bc6-830e-93a2a6bd44ea"
       (reference "U?") (unit 1) (value "MT41K256M16TW") (footprint "Package_BGA:BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm")
     )
     (path "/07a44a13-eafc-46bd-8242-ee73171e46e1/11100745-4ebc-47af-8970-8e7f08a636d7"
