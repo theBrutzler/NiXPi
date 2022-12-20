@@ -1,7 +1,7 @@
 {
   "board": {
-    "active_layer": 2,
-    "active_layer_preset": "",
+    "active_layer": 0,
+    "active_layer_preset": "All Copper Layers",
     "auto_track_width": true,
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -18,7 +18,7 @@
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": false,
+      "lockedItems": true,
       "otherItems": true,
       "pads": true,
       "text": true,
@@ -51,6 +51,7 @@
       23,
       24,
       25,
+      26,
       27,
       28,
       29,
@@ -59,15 +60,13 @@
       33,
       34,
       35,
-      36,
-      37,
-      38
+      36
     ],
-    "visible_layers": "00091c0_ffffffed",
+    "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "RhapsodiePi.kicad_prl",
+    "filename": "RhapsodiePi_Routing_V1.kicad_prl",
     "version": 3
   },
   "project": {
